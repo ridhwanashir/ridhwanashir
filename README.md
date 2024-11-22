@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/gradient_bar_transparent_crop_resized_2.gif" width="100%" loop>
+<img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/gradient_bar_transparent_crop_resized.gif" width="100%" loop>
 <h1><b>Hi there, I'm </b><a href="https://github.com/ridhwanashir">Ridhwan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
@@ -6,13 +6,18 @@
 
 I am a Technical Consultant at Metrodata Electronics Tbk and a master of informatics graduate from Telkom University. I work mainly on data science and generative AI, with clients ranging from the goverment ministry, FMCG, mining, plantation, and finance. I love to learn new things and currently on the mission to understand computer science from the assembly, infrastructure, data pipeline, backend, frontend, machine learning, and testing.
 
-⚡ Fun fact about me: I am a guitarist of a band!
-📫 You can reach me on: 
-- email: ridhwanashir@gmail.com
-- linkedin: https://www.linkedin.com/in/ridhwanashir/
-- X: https://x.com/masmastelyu
+<p align="center">⚡ Fun fact about me: I am a guitarist of a band! </br> 📫 You can reach me on:  </p>
 
-👯 I’m looking to collaborate on any Generative AI Projects
+
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:ridhwanashir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/ridhwanashir/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/ridhwanashir"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/masmastelyu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+</div>
+
+<p align="center"> Currently looking to collaborate on any Generative AI Projects, please hit me up! 👯 </p>
 
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
@@ -24,13 +29,6 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
     </a>
 </div>     
 
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:ridhwanashir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/ridhwanashir/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/ridhwanashir"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/masmastelyu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-</div>
 
 <br>
 
@@ -39,8 +37,11 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 
 ###### Languages & Syntax:
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; -->
-![C++](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-FF6A00?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-BF2E1A.svg?style=for-the-badge&logo=Dota-2&logoColor=white)&nbsp;
 
 <img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
