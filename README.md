@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/gradient_bar_transparent_crop_resized.gif" width="100%">
+<img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/gradient_bar_transparent_crop_resized_2.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ridhwanashir">Ridhwan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
