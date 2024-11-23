@@ -153,13 +153,13 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Portofolios***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Portofolio***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
   <tr>
     <td width="100%">
-        <h3 align="center">Since the portofolio website are still on working, please enjoy these instead: </h3>
+        <h3 align="center">Since the portofolio website is still on working, please enjoy these instead: </h3>
         <div align="center" style="display: flex; justify-content: center; gap: 10px;">
             <p>
                 <a href="https://www.imdb.com/title/tt2098220/"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo1aDNnb3E4cGhrOHEzcXFlYWM2OHBzb281emhtcmZhcDd6aTltbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbB1CV1fazlGo/giphy.webp" style="max-width: 32%; height: 170px;"></a>
