@@ -91,28 +91,24 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Portofolios***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <table>
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center">El Molino</h3>
-      <div align="center">
-        <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-          <img src="https://github.com/AAL1X/El_Molino-v1.0/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
-        </a>
-        <p>
-          <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
-      </div>
+    <td width="100%">
+        <h3 align="center">Since the portofolio website are still on working, please enjoy these instead: </h3>
+        <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+            <p>
+                <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo1aDNnb3E4cGhrOHEzcXFlYWM2OHBzb281emhtcmZhcDd6aTltbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbB1CV1fazlGo/giphy.webp" style="max-width: 33%; height: 170px;">
+                <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUwaHNxajM0czhuOTN6djhxcDl3NWpvNXI4cWFmdjMyNmdlNWwwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.webp" style="max-width: 30%; height: 170px;">
+                <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JjMHY2eXlnM3k0dXdvcHJqNzJud3F2NTB5dHY0NDRiZDN2MGgyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.webp" style="max-width: 33%; height: 170px;">
+            </p>
+        </div>
     </td>
   </tr>
 </table>
-<br> -->
+<br>
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
