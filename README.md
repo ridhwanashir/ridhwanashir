@@ -40,54 +40,116 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 
 ###### Languages & Syntax:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-FF6A00?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-BF2E1A.svg?style=for-the-badge&logo=Dota-2&logoColor=white)&nbsp;
+<a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</a>&nbsp;
+<a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+</a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-FF6A00?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML">
+</a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
+</a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://img.shields.io/badge/SQL-BF2E1A.svg?style=for-the-badge&logo=Dota-2&logoColor=white" alt="SQL">
+</a>&nbsp;
 
 <img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/Mf7U-S1qsesAAAAM/chillin-anime.gif"/>
 
 ###### Software Development:
-![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)&nbsp;
-![Taipy](https://img.shields.io/badge/Taipy-FF371A.svg?style=for-the-badge&logo=Taipy&logoColor=white)&nbsp;
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" alt="NextJS">
+</a>&nbsp;
+<a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
+</a>&nbsp;
+<a href="https://www.taipy.io/">
+    <img src="https://img.shields.io/badge/Taipy-FF371A.svg?style=for-the-badge&logo=Taipy&logoColor=white" alt="Taipy">
+</a>&nbsp;
 
 ###### Backend & Frameworks:
-![Azure Functions](https://img.shields.io/badge/Azure_Function-792EE5.svg?style=for-the-badge&logo=Lightning&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)&nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-512BD4?style=for-the-badge&logo=GraphQL&logoColor=white)
+<a href="https://azure.microsoft.com/en-us/services/functions/">
+    <img src="https://img.shields.io/badge/Azure_Function-792EE5.svg?style=for-the-badge&logo=Lightning&logoColor=white" alt="Azure Functions">
+</a>&nbsp;
+<a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask">
+</a>&nbsp;
+<a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain">
+</a>&nbsp;
+<a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-512BD4?style=for-the-badge&logo=GraphQL&logoColor=white" alt="LangGraph">
+</a>&nbsp;
 
 ###### Deployment & Cloud Services:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=orange)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white)&nbsp;
-
-<!-- #### ML/DL -->
+<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</a>&nbsp;
+<a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=orange" alt="AWS">
+</a>&nbsp;
+<a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white" alt="Azure">
+</a>&nbsp;
+<a href="https://cloud.google.com/">
+    <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="GCP">
+</a>&nbsp;
 
 ###### Storage & Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white)&nbsp;
-![CosmosDB](https://img.shields.io/badge/MongoDB-527FFF.svg?style=for-the-badge&logo=iCloud&logoColor=white)&nbsp;
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=AmazonS3&logoColor=white)&nbsp;
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-4285F4.svg?style=for-the-badge&logo=Files&logoColor=white)&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+</a>&nbsp;
+<a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</a>&nbsp;
+<a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</a>&nbsp;
+<a href="https://aws.amazon.com/dynamodb/">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white" alt="DynamoDB">
+</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/services/cosmos-db/">
+    <img src="https://img.shields.io/badge/MongoDB-527FFF.svg?style=for-the-badge&logo=iCloud&logoColor=white" alt="CosmosDB">
+</a>&nbsp;
+<a href="https://aws.amazon.com/s3/">
+    <img src="https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS S3">
+</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/services/storage/blobs/">
+    <img src="https://img.shields.io/badge/Azure_Blob_Storage-4285F4.svg?style=for-the-badge&logo=Files&logoColor=white" alt="Azure Blob Storage">
+</a>&nbsp;
 
 ###### Development Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
-![Copilot](https://img.shields.io/badge/Github_Copilot-%2320232a.svg?style=for-the-badge&logo=GithubCopilot&logoColor=white)&nbsp;
+<a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>&nbsp;
+<a href="https://github.com/">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>&nbsp;
+<a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</a>&nbsp;
+<a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</a>&nbsp;
+<a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
+</a>&nbsp;
+<a href="https://openai.com/chatgpt/overview/">
+    <img src="https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="ChatGPT">
+</a>&nbsp;
+<a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/Github_Copilot-%23202350.svg?style=for-the-badge&logo=GithubCopilot&logoColor=white" alt="Copilot">
+</a>&nbsp;
 
 ###### Development Environments:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=codeium&logoColor=white" alt="Visual Studio Code">
+</a>&nbsp;
+<a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=codeium&logoColor=white" alt="Visual Studio">
+</a>&nbsp;
 <br>
 <br>
 
@@ -100,9 +162,9 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
         <h3 align="center">Since the portofolio website are still on working, please enjoy these instead: </h3>
         <div align="center" style="display: flex; justify-content: center; gap: 10px;">
             <p>
-                <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo1aDNnb3E4cGhrOHEzcXFlYWM2OHBzb281emhtcmZhcDd6aTltbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbB1CV1fazlGo/giphy.webp" style="max-width: 33%; height: 170px;">
-                <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUwaHNxajM0czhuOTN6djhxcDl3NWpvNXI4cWFmdjMyNmdlNWwwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.webp" style="max-width: 30%; height: 170px;">
-                <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JjMHY2eXlnM3k0dXdvcHJqNzJud3F2NTB5dHY0NDRiZDN2MGgyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.webp" style="max-width: 33%; height: 170px;">
+                <a href="https://www.imdb.com/title/tt2098220/"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo1aDNnb3E4cGhrOHEzcXFlYWM2OHBzb281emhtcmZhcDd6aTltbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbB1CV1fazlGo/giphy.webp" style="max-width: 32%; height: 170px;"></a>
+                <a href="https://www.imdb.com/title/tt2098220/"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUwaHNxajM0czhuOTN6djhxcDl3NWpvNXI4cWFmdjMyNmdlNWwwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.webp" style="max-width: 30%; height: 170px;"></a>
+                <a href="https://www.imdb.com/title/tt2098220/"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JjMHY2eXlnM3k0dXdvcHJqNzJud3F2NTB5dHY0NDRiZDN2MGgyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.webp" style="max-width: 32%; height: 170px;"></a>
             </p>
         </div>
     </td>
