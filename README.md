@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/gradient_bar_transparent_crop_resized.gif" width="100%" loop>
-<h1><b>Hi there, I'm </b><a href="https://github.com/ridhwanashir">Ridhwan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://www.linkedin.com/in/ridhwanashir/">Ridhwan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://i.gifer.com/59cp.gif" width = 35>&nbsp;***About me***
+<img src = "https://i.gifer.com/59cp.gif" width = 35>&nbsp;&nbsp;***About me***
 
 I am a Technical Consultant at Metrodata Electronics Tbk and a master of informatics graduate from Telkom University. I work mainly on data science and generative AI, with clients ranging from the goverment ministry, FMCG, mining, plantation, and finance. I love to learn new things and currently on the mission to understand computer science from the assembly, infrastructure, data pipeline, backend, frontend, machine learning, and testing.
 
@@ -20,8 +20,11 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 <p align="center"> Currently looking to collaborate on any Generative AI Projects, please hit me up! 👯 </p>
 
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<div align="center">
+    <img align="center" width=50% alt="Unicorn" src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif"/>
+</div>
 
+</br>
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -36,7 +39,7 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; -->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-FF6A00?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
