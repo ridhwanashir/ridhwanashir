@@ -194,9 +194,9 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/naruto_left_eyes.gif" height="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/ridhwanashir/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://raw.githubusercontent.com/ridhwanashir/ridhwanashir/main/assets/naruto_right_eyes.gif" height="30">
 </div>
 <br>
 <br>
