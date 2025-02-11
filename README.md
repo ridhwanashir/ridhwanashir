@@ -111,7 +111,7 @@ I am a Technical Consultant at Metrodata Electronics Tbk and a master of informa
     <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white" alt="DynamoDB">
 </a>&nbsp;
 <a href="https://azure.microsoft.com/en-us/services/cosmos-db/">
-    <img src="https://img.shields.io/badge/MongoDB-527FFF.svg?style=for-the-badge&logo=iCloud&logoColor=white" alt="CosmosDB">
+    <img src="https://img.shields.io/badge/CosmosDB-527FFF.svg?style=for-the-badge&logo=iCloud&logoColor=white" alt="CosmosDB">
 </a>&nbsp;
 <a href="https://aws.amazon.com/s3/">
     <img src="https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS S3">
